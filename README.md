@@ -5,11 +5,6 @@
   
 </div>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrjreyhan&theme=dark"/>
-</p>
-
 Hi,
 I'm Muhammad Reyhan Jawadi and I'm switching careers to become a data analyst.
 Likes to learn new things, either self-taught or with the help of experts.
